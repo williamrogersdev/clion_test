@@ -4,3 +4,8 @@
 
 
 #include "functions.h"
+
+
+void print_hello(char *name) {
+ cout << name << endl;
+}

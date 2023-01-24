@@ -5,6 +5,5 @@
 #ifndef HELLOWORLD_MAIN_H
 #define HELLOWORLD_MAIN_H
 
-#include <iostream>
 #include "functions.h"
 #endif //HELLOWORLD_MAIN_H

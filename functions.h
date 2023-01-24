@@ -3,9 +3,15 @@
 //
 
 
-#ifndef HELLOWORLD_FUNCTIONS_H
-#define HELLOWORLD_FUNCTIONS_H
+#ifndef CPP_DEMO_FUNCTIONS_H
+#define  CPP_DEMO_FUNCTIONS_H
+
+#include <iostream>
 
 
+void print_hello(char*);
 
-#endif //HELLOWORLD_FUNCTIONS_H
+using std::cout;
+using std::endl;
+
+#endif  //CPP_DEMO_FUNCTIONS_H

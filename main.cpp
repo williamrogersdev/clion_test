@@ -1,8 +1,11 @@
-#include <iostream>
 
 #include "main.h"
 
-int main() {
-    std::cout << "Hello, World!" << std::endl;
+int main(int argc, char** argv) {
+
+
+    print_hello("Will");
+
+
     return 0;
 }
