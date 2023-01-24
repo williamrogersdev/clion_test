@@ -9,7 +9,7 @@
 #include <iostream>
 
 
-void print_hello(char*);
+void print_hello(const char*);
 
 using std::cout;
 using std::endl;
